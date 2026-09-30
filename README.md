@@ -157,7 +157,6 @@ The relationship should be evaluated using behavioral data and controlled experi
 The previous sections provide lenses for thinking about game mechanics. This framework turns those observations into testable product questions.
 
 #### Product Thinking Framework
-#### Product Thinking Framework
 
 ```mermaid
 flowchart TD
