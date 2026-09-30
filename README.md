@@ -173,25 +173,25 @@ Metrics: Choice interaction, progression, next-session return.
 This framework helps translate game design observations into product decisions and testable hypotheses.
 
 ---
-
 📚 Research Sources
 
-- Quantic Foundry — Gamer Motivation Profile
-  Used as a reference for player motivation dimensions such as Action, Social, Mastery, Achievement, Immersion, and Creativity.
+Player Motivation
 
-- Gaming Motivation Inventory — Academic Research
-  Used to cross-check recurring gaming motivation dimensions across a large player sample.
+- "Quantic Foundry — Gamer Motivation Model" (https://quanticfoundry.com/gamer-motivation-model/)
+  Reference for player motivation dimensions including Mastery, Achievement, Immersion, Social, Action, and Creativity. The model was developed using factor analysis of gamer data.
 
-- Systematic Research on Gaming Motivation
-  Used to provide academic context around themes such as immersion, flow, escapism, social interaction, and goal orientation.
+- "Cheah, Shimul & Phau — Motivations of Playing Digital Games" (https://doi.org/10.1002/mar.21631)
+  A systematic review of 91 peer-reviewed studies examining recurring themes in digital gaming motivation, including immersion/flow, social interaction, identification, and goal orientation.
 
-- Flow Theory — Challenge & Skill
-  Used as a conceptual lens for thinking about the relationship between challenge, player skill, and experience.
+Choice & Player Agency
 
-- Loss Aversion — Behavioral Economics
-  Used as a lens for examining mechanics such as streaks, rewards, and potential loss.
+- "Cardona-Rivera et al. — Foreseeing Meaningful Choices" (https://scholars.uky.edu/en/publications/foreseeing-meaningful-choices/)
+  Used as a reference for the relationship between meaningful differences in choice outcomes and perceived player agency.
 
-- Player Agency & Meaningful Choice — Academic Research
-  Used to frame the distinction between superficial choice and choices that can meaningfully influence the player's experience.
+Challenge, Difficulty & Engagement
 
-«Note: Research concepts in this case study are used as analytical lenses for generating product questions and hypotheses. They are not treated as direct evidence of causality.»
+- "Hamari et al. — Challenging Games, Engagement, Flow & Immersion" (https://doi.org/10.1016/j.chb.2015.07.045)
+  Used as a conceptual reference for the relationship between perceived challenge, skill, engagement, and flow.
+
+«Research Note:
+Research findings and psychological concepts in this case study are used as analytical lenses for generating product questions and hypotheses. They are not treated as universal rules or direct evidence of causality. Product hypotheses should be validated through player research, behavioral data, or controlled experimentation.»
