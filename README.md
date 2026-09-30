@@ -114,7 +114,18 @@ Product Questions
 - Which player need is the product experience trying to serve?
 - Do the game's mechanics reinforce that experience?
 - Could different player motivations lead to different engagement patterns?
-
+quadrantChart
+    title Player Need & Game Mechanic Landscape
+    x-axis Lower Mechanic Complexity --> Higher Mechanic Complexity
+    y-axis Individual Experience --> Social Experience
+    quadrant-1 Social & Complex
+    quadrant-2 Individual & Complex
+    quadrant-3 Individual & Simple
+    quadrant-4 Social & Simple
+    "Core Progression": [0.30, 0.25]
+    "Meaningful Choice": [0.70, 0.35]
+    "Customization": [0.65, 0.55]
+    "Cooperation / Competition": [0.75, 0.80]
 ---
 
 05. Monetization & Player Value
@@ -171,7 +182,18 @@ Experiment: Compare a consequence-based choice experience with a superficial-cho
 Metrics: Choice interaction, progression, next-session return.
 
 This framework helps translate game design observations into product decisions and testable hypotheses.
-
+quadrantChart
+    title Player Need & Game Mechanic Landscape
+    x-axis Lower Mechanic Complexity --> Higher Mechanic Complexity
+    y-axis Individual Experience --> Social Experience
+    quadrant-1 Social & Complex
+    quadrant-2 Individual & Complex
+    quadrant-3 Individual & Simple
+    quadrant-4 Social & Simple
+    "Core Progression": [0.30, 0.25]
+    "Meaningful Choice": [0.70, 0.35]
+    "Customization": [0.65, 0.55]
+    "Cooperation / Competition": [0.75, 0.80]
 ---
 📚 Research Sources
 
