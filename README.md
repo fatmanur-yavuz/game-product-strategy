@@ -93,3 +93,152 @@ This hypothesis could be explored through:
 Choice → Perceived Control → Investment → Engagement / Return Behavior
 
 The relationship should be validated through player research or controlled experimentation rather than assumed as causal.
+
+02. Progression, Difficulty & Player Friction
+
+Product Perspective: How might progression and difficulty shape the player experience?
+
+Progression creates a sense of achievement, while difficulty introduces challenge and friction. From a product perspective, the key question is whether the challenge remains aligned with the player's experience and perceived progress.
+
+Product Questions
+
+- Where might difficulty become frustrating rather than challenging?
+- Does progression provide a clear sense of achievement?
+- How might sudden difficulty increases affect player behavior?
+- Which behavioral signals could indicate a progression problem?
+
+Example Hypothesis
+
+«Hypothesis: A sudden increase in difficulty may lead to higher drop-off when players do not perceive sufficient progress or reward for the effort required.»
+
+Difficulty Increase → Friction → Progression Perception → Continued Play / Drop-off
+
+The relationship should be validated through behavioral data, player research, or controlled experimentation.
+
+---
+
+03. Engagement & Behavioral Loops
+
+Product Perspective: What gives players a reason to return, and does the engagement create lasting product value?
+
+Games use systems such as daily challenges, streaks, rewards, unlocks, and progression loops to encourage continued interaction. Their impact should be evaluated through player behavior rather than assumed.
+
+Product Questions
+
+- What gives a player a meaningful reason to return?
+- Which mechanics create sustained engagement rather than short-term activity?
+- Could a reward increase activity without improving the overall experience?
+- Which behaviors indicate that a feature is providing value?
+
+Example Hypothesis
+
+«Hypothesis: A recurring feature may encourage return behavior when it provides a meaningful reason to continue progression rather than functioning only as an external reward.»
+
+Feature Exposure → Feature Usage → Continued Engagement → Return Behavior
+
+Possible signals include feature adoption, usage frequency, session frequency, and return behavior.
+
+---
+
+04. Player Motivation
+
+Product Perspective: What underlying player needs might a game experience serve?
+
+Players can engage with games for different reasons, including mastery, achievement, immersion, discovery, social connection, competition, and creativity. These motivations should be treated as potential lenses rather than universal player profiles.
+
+Motivation → Product Experience
+
+Player Motivation| Possible Game Mechanics
+Mastery| Increasing challenge, strategy, skill progression
+Achievement| Levels, rewards, collectibles
+Discovery| Exploration, unlockable content
+Agency| Meaningful choices and consequences
+Social| Cooperation, competition, shared goals
+Creativity| Customization, building, self-expression
+
+Product Questions
+
+- Which player need is the product experience trying to serve?
+- Do the game's mechanics reinforce that experience?
+- Could different player motivations lead to different engagement patterns?
+
+---
+
+05. Monetization & Player Value
+
+Product Perspective: How can monetization create value without weakening the player experience?
+
+Monetization is not only a revenue mechanism. From a product perspective, it should also be considered in relation to progression, player value, friction, and long-term engagement.
+
+Product Questions
+
+- What value is the player receiving in exchange for a purchase?
+- Where does monetization appear within the player journey?
+- Could a monetization mechanic introduce unnecessary friction?
+- Is monetization occurring alongside sustained engagement or independently of it?
+
+Example Hypothesis
+
+«Hypothesis: Monetization opportunities may perform differently depending on when they appear in the player journey and the value they provide at that moment.»
+
+Player Need → Product Value → Monetization Opportunity → Player Response
+
+The relationship should be evaluated using behavioral data and controlled experiments rather than assumed.
+
+---
+
+06. From Game Mechanic to Product Hypothesis
+
+The previous sections provide lenses for thinking about game mechanics. This framework turns those observations into testable product questions.
+
+Product Thinking Framework
+
+Game Mechanic
+↓
+Player Experience / Need
+↓
+Behavioral Signal
+↓
+Product Question
+↓
+Hypothesis
+↓
+Experiment
+↓
+Success Metric
+
+Example
+
+Mechanic: Meaningful choice
+Player Need: Agency / perceived control
+Behavioral Signal: Choice interaction and progression behavior
+Product Question: Does perceiving meaningful consequences affect player engagement?
+Hypothesis: Meaningful choices may increase player investment when their consequences are clearly perceived.
+Experiment: Compare a consequence-based choice experience with a superficial-choice experience.
+Metrics: Choice interaction, progression, next-session return.
+
+This framework helps translate game design observations into product decisions and testable hypotheses.
+
+---
+
+📚 Research Sources
+
+- Quantic Foundry — Gamer Motivation Profile
+  Used as a reference for player motivation dimensions such as Action, Social, Mastery, Achievement, Immersion, and Creativity.
+
+- Gaming Motivation Inventory — Academic Research
+  Used to cross-check recurring gaming motivation dimensions across a large player sample.
+
+- Systematic Research on Gaming Motivation
+  Used to provide academic context around themes such as immersion, flow, escapism, social interaction, and goal orientation.
+
+- Flow Theory — Challenge & Skill
+  Used as a conceptual lens for thinking about the relationship between challenge, player skill, and experience.
+
+- Loss Aversion — Behavioral Economics
+  Used as a lens for examining mechanics such as streaks, rewards, and potential loss.
+
+- Player Agency & Meaningful Choice — Academic Research
+  Used to frame the distinction between superficial choice and choices that can meaningfully influence the player's experience.
+
+«Note: Research concepts in this case study are used as analytical lenses for generating product questions and hypotheses. They are not treated as direct evidence of causality.»
