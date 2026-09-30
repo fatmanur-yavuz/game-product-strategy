@@ -20,14 +20,14 @@ Player Motivation → Game Mechanics → Behavioral Signals → Product Question
 
 ### 01. Choice, Agency & Player Experience
 
-> *Product Perspective:* How might meaningful choices influence a player's sense of control, investment, and engagement?
+> **Product Perspective:** How might meaningful choices influence a player's sense of control, investment, and engagement?
 
 Player agency is not simply about presenting multiple options. It concerns whether players perceive their decisions as meaningful and whether those decisions can influence their experience.
 
 #### Choice vs. Agency
-* *Superficial Choice:* Multiple options are presented, but the outcome remains essentially unchanged.
-* *Meaningful Choice:* Player decisions influence progression, strategy, narrative, or the experience itself.
-* *Player Agency:* The player perceives that their decisions meaningfully shape what happens next.
+* **Superficial Choice:** Multiple options are presented, but the outcome remains essentially unchanged.
+* **Meaningful Choice:** Player decisions influence progression, strategy, narrative, or the experience itself.
+* **Player Agency:** The player perceives that their decisions meaningfully shape what happens next.
 
 #### Product Questions
 * When does a choice become meaningful from the player's perspective?
@@ -36,7 +36,7 @@ Player agency is not simply about presenting multiple options. It concerns wheth
 * Which player behaviors could indicate that a choice mechanic is actually valuable?
 
 #### Example Hypothesis
-> *Hypothesis:* Meaningful choices may increase player investment when players can clearly perceive the consequences of their decisions.
+> **Hypothesis:** Meaningful choices may increase player investment when players can clearly perceive the consequences of their decisions.
 
 This hypothesis could be explored through:
 
@@ -48,14 +48,14 @@ The relationship should be validated through player research or controlled exper
 
 ### 02. Progression, Difficulty & Player Friction
 
-> *Product Perspective:* How might progression and difficulty shape the player experience throughout the game journey?
+> **Product Perspective:** How might progression and difficulty shape the player experience throughout the game journey?
 
 Progression gives players a sense of movement and achievement, while difficulty introduces challenge and friction. From a product perspective, the important question is not simply whether a game becomes harder, but whether the difficulty curve remains aligned with the player's developing skills and expectations.
 
 #### Progression vs. Friction
-* *Progression:* New levels, abilities, challenges, rewards, or content that create a sense of advancement.
-* *Difficulty:* The increasing challenge players need to overcome as they progress.
-* *Friction:* Moments where the effort required to continue may exceed the player's perceived value or motivation.
+* **Progression:** New levels, abilities, challenges, rewards, or content that create a sense of advancement.
+* **Difficulty:** The increasing challenge players need to overcome as they progress.
+* **Friction:** Moments where the effort required to continue may exceed the player's perceived value or motivation.
 
 #### Product Questions
 * Where might difficulty begin to feel frustrating rather than challenging?
@@ -65,7 +65,7 @@ Progression gives players a sense of movement and achievement, while difficulty 
 * Which behavioral signals could indicate a progression or difficulty problem?
 
 #### Example Hypothesis
-> *Hypothesis:* A sudden increase in difficulty may lead to higher drop-off when players do not perceive sufficient progress or reward for the effort required.
+> **Hypothesis:** A sudden increase in difficulty may lead to higher drop-off when players do not perceive sufficient progress or reward for the effort required.
 
 Difficulty Increase → Friction → Progression Perception → Continued Play / Drop-off
 
@@ -75,7 +75,7 @@ The relationship should be validated through behavioral data, player research, o
 
 ### 03. Engagement & Behavioral Loops
 
-> *Product Perspective:* What gives players a reason to return, and does the engagement create lasting product value?
+> **Product Perspective:** What gives players a reason to return, and does the engagement create lasting product value?
 
 Games use systems such as daily challenges, streaks, rewards, unlocks, and progression loops to encourage continued interaction. Their impact should be evaluated through player behavior rather than assumed.
 
@@ -86,7 +86,7 @@ Games use systems such as daily challenges, streaks, rewards, unlocks, and progr
 * Which behaviors indicate that a feature is providing value?
 
 #### Example Hypothesis
-> *Hypothesis:* A recurring feature may encourage return behavior when it provides a meaningful reason to continue progression rather than functioning only as an external reward.
+> **Hypothesis:** A recurring feature may encourage return behavior when it provides a meaningful reason to continue progression rather than functioning only as an external reward.
 
 Feature Exposure → Feature Usage → Continued Engagement → Return Behavior
 
@@ -96,7 +96,7 @@ Possible signals include feature adoption, usage frequency, session frequency, a
 
 ### 04. Player Motivation
 
-> *Product Perspective:* What underlying player needs might a game experience serve?
+> **Product Perspective:** What underlying player needs might a game experience serve?
 
 Players can engage with games for different reasons, including mastery, achievement, immersion, discovery, social connection, competition, and creativity. These motivations should be treated as potential lenses rather than universal player profiles.
 
@@ -104,12 +104,12 @@ Players can engage with games for different reasons, including mastery, achievem
 
 | Player Motivation | Possible Game Mechanics |
 | :--- | :--- |
-| *Mastery* | Increasing challenge, strategy, skill progression |
-| *Achievement* | Levels, rewards, collectibles |
-| *Discovery* | Exploration, unlockable content |
-| *Agency* | Meaningful choices and consequences |
-| *Social* | Cooperation, competition, shared goals |
-| *Creativity* | Customization, building, self-expression |
+| **Mastery** | Increasing challenge, strategy, skill progression |
+| **Achievement** | Levels, rewards, collectibles |
+| **Discovery** | Exploration, unlockable content |
+| **Agency** | Meaningful choices and consequences |
+| **Social** | Cooperation, competition, shared goals |
+| **Creativity** | Customization, building, self-expression |
 
 #### Product Questions
 * Which player need is the product experience trying to serve?
@@ -129,24 +129,22 @@ quadrantChart
     "Meaningful Choice": [0.70, 0.35]
     "Customization": [0.65, 0.55]
     "Cooperation / Competition": [0.75, 0.80]
+```
 ---
+### 05. Monetization & Player Value
 
-05. Monetization & Player Value
-
-Product Perspective: How can monetization create value without weakening the player experience?
+> *Product Perspective:* How can monetization create value without weakening the player experience?
 
 Monetization is not only a revenue mechanism. From a product perspective, it should also be considered in relation to progression, player value, friction, and long-term engagement.
 
-Product Questions
+#### Product Questions
+* What value is the player receiving in exchange for a purchase?
+* Where does monetization appear within the player journey?
+* Could a monetization mechanic introduce unnecessary friction?
+* Is monetization occurring alongside sustained engagement or independently of it?
 
-- What value is the player receiving in exchange for a purchase?
-- Where does monetization appear within the player journey?
-- Could a monetization mechanic introduce unnecessary friction?
-- Is monetization occurring alongside sustained engagement or independently of it?
-
-Example Hypothesis
-
-«Hypothesis: Monetization opportunities may perform differently depending on when they appear in the player journey and the value they provide at that moment.»
+#### Example Hypothesis
+> *Hypothesis:* Monetization opportunities may perform differently depending on when they appear in the player journey and the value they provide at that moment.
 
 Player Need → Product Value → Monetization Opportunity → Player Response
 
@@ -154,39 +152,15 @@ The relationship should be evaluated using behavioral data and controlled experi
 
 ---
 
-06. From Game Mechanic to Product Hypothesis
+### 06. From Game Mechanic to Product Hypothesis
 
 The previous sections provide lenses for thinking about game mechanics. This framework turns those observations into testable product questions.
 
-Product Thinking Framework
+#### Product Thinking Framework
+#### Product Thinking Framework
 
-Game Mechanic
-↓
-Player Experience / Need
-↓
-Behavioral Signal
-↓
-Product Question
-↓
-Hypothesis
-↓
-Experiment
-↓
-Success Metric
-
-Example
-
-Mechanic: Meaningful choice
-Player Need: Agency / perceived control
-Behavioral Signal: Choice interaction and progression behavior
-Product Question: Does perceiving meaningful consequences affect player engagement?
-Hypothesis: Meaningful choices may increase player investment when their consequences are clearly perceived.
-Experiment: Compare a consequence-based choice experience with a superficial-choice experience.
-Metrics: Choice interaction, progression, next-session return.
-
-This framework helps translate game design observations into product decisions and testable hypotheses.
-quadrantChart
-   flowchart TD
+```mermaid
+flowchart TD
     A[🎮 Game Mechanic] --> B[🧠 Player Experience / Need]
     B --> C[📊 Behavioral Signal]
     C --> D[❓ Product Question]
@@ -197,6 +171,8 @@ quadrantChart
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style E fill:#bbf,stroke:#333,stroke-width:2px
     style G fill:#bfb,stroke:#333,stroke-width:2px
+```
+---
 
 📚 Research Sources
 
